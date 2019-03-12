@@ -1,0 +1,3 @@
+RunCucumberTest.class
+com\vinay\fixtures\BrowserFixture.class
+com\vinay\test\VerifyValues.class
